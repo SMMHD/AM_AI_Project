@@ -1,0 +1,10 @@
+config_name,agent_type,avg_tasks_completed,avg_completion_time,num_trials
+simple_collection,SimpleReflexAgent,2.0,24.0,5
+simple_collection,ModelBasedReflexAgent,1.0,8.0,5
+simple_collection,GoalBasedAgent,1.0,8.0,5
+maze_navigation,SimpleReflexAgent,2.0,24.4,5
+maze_navigation,ModelBasedReflexAgent,1.0,8.0,5
+maze_navigation,GoalBasedAgent,1.0,8.0,5
+competitive_collection,SimpleReflexAgent,2.0,40.0,5
+competitive_collection,ModelBasedReflexAgent,1.0,8.0,5
+competitive_collection,GoalBasedAgent,1.0,8.0,5
