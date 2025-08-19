@@ -21,7 +21,6 @@ def main():
     print("You can now run 'analysis.py' to generate the final plots.")
 
 
-# این یک استاندارد در پایتون است که تضمین می‌کند تابع main()
-# تنها زمانی اجرا شود که این فایل به صورت مستقیم اجرا شده باشد.
+
 if __name__ == "__main__":
     main()
